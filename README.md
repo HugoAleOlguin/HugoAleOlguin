@@ -105,11 +105,8 @@ Juego multijugador. Estrategia + riesgo en red local.
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Hugo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoAleOlguin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=fff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAleOlguin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=fff)
-
+<!-- Resumen de perfil -->
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HugoAleOlguin&theme=radical" alt="Resumen de perfil" />
 </div>
 
 ---
@@ -120,7 +117,6 @@ Juego multijugador. Estrategia + riesgo en red local.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugod.ies9012@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HugoAleOlguin)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Hugo_Ale_Olguin)
 
 </div>
 
@@ -133,4 +129,7 @@ Juego multijugador. Estrategia + riesgo en red local.
 </div>
 
 - ⚡ Fun fact: Detesto albegra lineal.
--->
+
+<p align="center">
+  <img src="https://media.tenor.com/pvC6pnVx754AAAAM/emilia-re-zero.gif" alt="Rem" width="70" height="50">
+</p>
