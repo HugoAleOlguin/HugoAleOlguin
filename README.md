@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img align="center" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=3B82F6&center=true&width=500&lines=Hola+mundo+%F0%9F%91%8B;Soy+Hugo+Olguin;Web+Developer;O+un+intento+de+ellGo" alt="Typing SVG" />
+# <img align="center" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=3B82F6&center=true&width=500&lines=Hola+mundo+%F0%9F%91%8B;Soy+Hugo+Olguin;Web+Developer;O+un+intento+de+ello" alt="Typing SVG" />
 
 </div>
 
