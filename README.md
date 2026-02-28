@@ -36,9 +36,9 @@ Extensión para Chrome y Firefox que agrega un panel flotante en Scribd para des
 
 [**Ver repositorio →**](https://github.com/HugoAleOlguin/Scribd-Downloader-Premium)
 
-</details>
-
 ---
+
+</details>
 
 <details>
 <summary><b>Jueguitos Piola</b> — HTML · CSS · JavaScript · GitHub Pages</summary>
@@ -56,9 +56,9 @@ Hub de juegos hosteado en GitHub Pages. Links directos de descarga para jugar co
 
 [**Ver en vivo →**](https://hugoaleolguin.github.io/jueguitos-piola/) &nbsp;·&nbsp; [**Repositorio →**](https://github.com/HugoAleOlguin/jueguitos-piola)
 
-</details>
-
 ---
+
+</details>
 
 <details>
 <summary><b>Mano Musical</b> — Python · MediaPipe · OpenCV</summary>
@@ -74,9 +74,9 @@ Instrumento virtual que detecta tu mano por webcam en tiempo real. Cada cantidad
 
 [**Repositorio →**](https://github.com/HugoAleOlguin/Mano_Musical)
 
-</details>
-
 ---
+
+</details>
 
 <details>
 <summary><b>Ruleta Rusa LAN</b> — Python · Sockets · Networking</summary>
@@ -92,9 +92,9 @@ Juego multijugador para red local hecho con Python puro y sockets. Empezó como 
 
 [**Repositorio →**](https://github.com/HugoAleOlguin/Ruleta-Rusa-Lan)
 
-</details>
-
 ---
+
+</details>
 
 <details>
 <summary><b>Despensa Simple</b> — JavaScript · HTML · LocalStorage</summary>
@@ -110,9 +110,9 @@ App web de gestión de stock para una verdulería. Proyecto real pedido por un f
 
 [**Repositorio →**](https://github.com/HugoAleOlguin/Despensa-Simple-El-Tato)
 
-</details>
-
 ---
+
+</details>
 
 <details>
 <summary><b>Sitio Ortopedia</b> — HTML · CSS · GitHub Pages</summary>
@@ -128,9 +128,9 @@ Sitio web para una ortopedia local con catálogo de productos, formulario de con
 
 [**Ver en vivo →**](https://hugoaleolguin.github.io/Sitio-Otopedia-Backup/) &nbsp;·&nbsp; [**Repositorio →**](https://github.com/HugoAleOlguin/Sitio-Otopedia-Backup)
 
-</details>
-
 ---
+
+</details>
 
 <details>
 <summary><b>Py Clash Bot (Español)</b> — Python · Fork · Open Source</summary>
@@ -146,9 +146,9 @@ Fork de py-clash-bot con traducción completa al español. Primera contribución
 
 [**Repositorio →**](https://github.com/HugoAleOlguin/py-clash-bot-spanish)
 
-</details>
-
 ---
+
+</details>
 
 <div align="center">
 
